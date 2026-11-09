@@ -1,0 +1,6 @@
+ContentWarning-Aimbot-2026-Aim-Assist-Download
+Edition: Prime Edition
+Package reference: ContentWarning-Aimbot-2026
+Language: English
+Platform: Windows 10 / Windows 11 x64
+Read README.md before opening the downloaded package.
